@@ -1,0 +1,32 @@
+.restaurantThumb{
+	width:150px;
+}
+.categoryThumb{
+	width:150px;
+}
+
+.seatThumb{
+	width:150px;
+}
+
+textarea{
+	height: 120px !important;
+}
+.btn-primary{
+	width: 100%;
+}
+
+.editRestaurantImg{
+	border: 1px solid black;
+}
+
+.editCategoryImg{
+	border: 1px solid black;
+}
+
+.editSeatImg{
+	border: 1px solid black;
+}
+/*.table-responsive {
+    overflow: auto;
+}*/
